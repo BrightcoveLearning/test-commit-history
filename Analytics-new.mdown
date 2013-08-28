@@ -2,7 +2,7 @@ FORMAT: X-1A
 HOST: https://data.brightcove.com/analytics-api/videocloud
 
 # Analytics API v1
-
+blah
 The Analytics API allows you to obtain analytics data for your Video Cloud accounts directly. You can also view the built-in analytics reports in the Analytics Module of [Video Cloud Studio](http://videocloud.brightcove.com). Accessing the data programmatically gives you additional flexibility for such purposes as:
 
 * Creating custom charts and displays
